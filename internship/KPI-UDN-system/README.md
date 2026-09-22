@@ -130,7 +130,7 @@ Các artefact dưới đây là bằng chứng trực tiếp cho phần phân t�
 
 Frontend demo được tổ chức bằng React, Vite, Ant Design và JavaScript, sử dụng dữ liệu mock để mô phỏng các vai trò và luồng nghiệp vụ. Source code được chia theo module: cá nhân, kỳ đánh giá, trưởng đơn vị, Phó Giám đốc, Giám đốc, vi phạm và báo cáo.
 
-Xem thêm: [Frontend README](frontend-design/README.md) · [Báo cáo thực tập](internship-report/internship-report.docx)
+Xem thêm: [Frontend README](<frontend-design/README.md>) · [Báo cáo thực tập](<internship-report/internship-report.docx>)
 
 ## 12. Bài học BA
 
