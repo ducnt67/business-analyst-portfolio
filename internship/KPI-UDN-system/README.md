@@ -106,19 +106,19 @@ Các artefact dưới đây là bằng chứng trực tiếp cho phần phân t�
 
 ### BPMN cập nhật công việc và tự đánh giá
 
-![BPMN cập nhật công việc và tự đánh giá](<DanhgiaKPI-TO-BE - Quy trình CBGV cập nhật công việc và lập phiếu tự đánh giá.drawio.png>)
+![BPMN cập nhật công việc và tự đánh giá](<bpmn-ucd/DanhgiaKPI-TO-BE - Quy trình CBGV cập nhật công việc và lập phiếu tự đánh giá.drawio.png>)
 
 ### BPMN xử lý vi phạm và xét duyệt nhiều cấp
 
-![BPMN xử lý vi phạm và xét duyệt nhiều cấp](<DanhgiaKPI-TO-BE - Quy trình Xử lý vi phạm, xét duyệt và phê duyệt qua các cấp.drawio.png>)
+![BPMN xử lý vi phạm và xét duyệt nhiều cấp](<bpmn-ucd/DanhgiaKPI-TO-BE - Quy trình Xử lý vi phạm, xét duyệt và phê duyệt qua các cấp.drawio.png>)
 
 ### Use Case Diagram tổng quan
 
-![Use Case Diagram tổng quan](<DanhgiaKPI-UCD-tổng quan.drawio.png>)
+![Use Case Diagram tổng quan](<bpmn-ucd/DanhgiaKPI-UCD-tổng quan.drawio.png>)
 
 ### Use Case Diagram phân rã
 
-![Use Case Diagram phân rã](<DanhgiaKPI-UCD-Phân rã.drawio.png>)
+![Use Case Diagram phân rã](<bpmn-ucd/DanhgiaKPI-UCD-Phân rã.drawio.png>)
 
 ## 10. Tài liệu tham khảo của dự án
 
