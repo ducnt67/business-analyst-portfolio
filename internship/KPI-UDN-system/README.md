@@ -102,7 +102,7 @@ Các artefact dưới đây là bằng chứng trực tiếp cho phần phân t�
 
 ### BPMN To-Be tổng quan
 
-![BPMN To-Be tổng quan](<DanhgiaKPI-BPMN TO-BE.drawio.png>)
+![BPMN To-Be tổng quan](<bpmn-ucd/DanhgiaKPI-BPMN TO-BE.drawio.png>)
 
 ### BPMN cập nhật công việc và tự đánh giá
 
