@@ -37,4 +37,4 @@ Trọng tâm giải pháp là thiết kế một luồng có khả năng rút ng
 
 ## Dự án chi tiết
 
-Thư mục [KPI-UDN-system](<KPI-UDN-system\README.md>)
+Thư mục [KPI-UDN-system](<KPI-UDN-system/README.md>)
